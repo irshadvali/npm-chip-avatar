@@ -1,6 +1,6 @@
 # npm-chip-avatar
 
- <AvatarList
+``` <AvatarList
           dataResult={this.state.showData}
           avatarSize={30}
           strokeColor={"#cccccc"}
@@ -12,6 +12,8 @@
           maxTextShowColor={"#ffffff"}
           maxTextShowSize={15}
       />
+      
+      ```
       
       
       
