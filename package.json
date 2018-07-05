@@ -1,0 +1,35 @@
+{
+  "name": "npm-chip-avatar",
+  "version": "0.0.1",
+  "description": "this is for chip avatar.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/irshadvali/npm-chip-avatar.git"
+  },
+  "keywords": [
+    "chip-avatar",
+    "chip",
+    "avatar",
+    "profile-image",
+    "profile",
+    "image",
+    "image",
+    "circle-image",
+    "circle",
+    "image"
+  ],
+  "author": "irshad vali",
+  "license": "ISC",
+  "peerDependencies":{
+    "react":"^16.3.2",
+    "react-native": "^0.55.4"
+  }
+  "bugs": {
+    "url": "https://github.com/irshadvali/npm-chip-avatar/issues"
+  },
+  "homepage": "https://github.com/irshadvali/npm-chip-avatar#readme"
+}
