@@ -16,7 +16,7 @@
       
       
       
-  # dataResult JSON structure shouled be same structure and same node 'image' and 'name'
+  # dataResult in JSON formate and structure shouled be same like below result and node name should be as 'image' and 'name'
       
   dataResult=  
   [
