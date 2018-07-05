@@ -16,7 +16,7 @@
       
       
       
-  #dataResult JSON structure shouled be same structure and same node 'image' and 'name'
+  # dataResult JSON structure shouled be same structure and same node 'image' and 'name'
       
   dataResult=  
   [
