@@ -22,7 +22,7 @@
       
       
       
-  #### dataResult in JSON formate and structure shouled be same like below result and node name should be as 'image' and 'name'
+  #### dataResult should be in JSON formate and structure shouled be same like below result and node name should be as 'image' and 'name'
       
   dataResult=  
   [
