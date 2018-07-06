@@ -1,6 +1,6 @@
 # npm-chip-avatar
-
-## yarn add npm-chip-avatar   or npm install npm-chip-avatar --save or npm i npm-chip-avatar
+### install npm-chip-avatar
+#### yarn add npm-chip-avatar   or npm install npm-chip-avatar --save or npm i npm-chip-avatar
 
 
 
